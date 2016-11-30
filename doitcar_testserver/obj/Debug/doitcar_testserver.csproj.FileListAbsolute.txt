@@ -1,0 +1,9 @@
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\bin\Debug\doitcar_testserver.exe.config
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\bin\Debug\doitcar_testserver.exe
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\bin\Debug\doitcar_testserver.pdb
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\obj\Debug\doitcar_testserver.exe
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\obj\Debug\doitcar_testserver.pdb
+d:\dokumentumok\visual studio 2015\Projects\doitcar_testserver\doitcar_testserver\obj\Debug\doitcar_testserver.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\GIT\doitcar-test-server\doitcar_testserver\bin\Debug\doitcar_testserver.exe.config
+D:\Dokumentumok\GIT\doitcar-test-server\doitcar_testserver\obj\Debug\doitcar_testserver.exe
+D:\Dokumentumok\GIT\doitcar-test-server\doitcar_testserver\obj\Debug\doitcar_testserver.pdb
